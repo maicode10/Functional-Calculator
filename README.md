@@ -27,7 +27,7 @@ java FunctionalCalculator
 Run the program and follow the on-screen instructions to perform calculations.
 
 ## Author
-Maira Lorraine
+Maira Lorraine Domaog
 
 ## License
 MIT License
